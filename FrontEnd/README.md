@@ -1,2 +1,2 @@
 # TreinaWeb
-Aplicções desenvolvidas na semana multistack TreinaWeb
+Aplicações desenvolvidas na semana multistack TreinaWeb
