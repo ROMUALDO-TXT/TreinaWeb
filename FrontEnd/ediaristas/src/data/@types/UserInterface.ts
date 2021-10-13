@@ -1,6 +1,6 @@
 export interface IUserShort {
-  full_name: string;
-  user_avatar: string;
+  name: string;
+  avatar: string;
   rating: number;
   description: string;
 }
